@@ -406,5 +406,68 @@ background-color: #1f1f1f17;
 
 
 @media screen and (max-width: 1300px) {
-  
+  .projects-item{
+    width: calc(50% - 50px);
+  }
+}
+@media screen and (max-width: 1200px) {
+  .projects-item{
+    width: 100%;
+  }
+  .name{
+    font-size: 18px;
+  }
+
+  .education_date{
+    font-size: 28px;
+  }
+  .education-row{
+    margin-left: 0;
+  }
+  .main-block{
+    width: 70%;
+  }
+  .App{
+    justify-content: space-between;
+  }
+  menu a:hover{
+    letter-spacing: 1px;
+  }
+}
+@media screen and (max-width: 700px) {
+
+  .App{
+    flex-direction: column;
+
+  }
+  .submenu{
+    flex-direction: row;
+    width: auto;
+    /* height: 120px; */
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+  }
+  .submenu-img{
+    width: 100px;
+    height: 100px;
+
+  }
+  .submenu .button_contact{
+    margin-top: 45px;
+  }
+  .main-block{
+    width: 100%;
+  }
+  .name{
+    margin: 0;
+  }
+}
+@media screen and (max-width: 460px) {
+  .submenu{
+    flex-direction: column;
+  }
+  .submenu .button_contact{
+    margin-top: 15px;
+  }
 }
