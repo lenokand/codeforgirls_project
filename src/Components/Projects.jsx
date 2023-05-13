@@ -3,7 +3,12 @@ import link from '../img/link.png'
 
 export default function Projects() {
     return (
-        <div className="projects container">
+     <>
+      <div className="projects-title">
+          Welkome to my portfolio page!
+     </div>
+  <div className="projects container">
+         
           <div className='projects-item'>
                 <img className='project_img' src="https://lenokand.github.io/Ukrtrain/images/main_baner-min.png" alt="" />
                <a className='project-name' href="https://lenokand.github.io/Ukrtrain/">
@@ -125,5 +130,7 @@ export default function Projects() {
            
            
         </div>
+     </>
+      
     )
 }
