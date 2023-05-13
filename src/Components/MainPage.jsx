@@ -23,6 +23,35 @@ export default function MainPage() {
 
           <Button/>
             <div className="hobby-block">
+                Skills
+            </div>
+            <div className="about-interesst">
+                <div className="about-interesst-item">
+                #HTML
+                </div>
+                <div className="about-interesst-item">
+                #SASS/CSS
+                </div>
+                <div className="about-interesst-item">
+                #Java Script
+                </div>
+                <div className="about-interesst-item">
+                #React
+
+                </div>
+                <div className="about-interesst-item">
+                #jQuery
+                </div>
+                <div className="about-interesst-item">
+                #CMS
+                </div>
+                <div className="about-interesst-item">
+                #PHP
+                </div>
+               
+
+            </div>
+            <div className="hobby-block">
                 My interests
             </div>
             <div className="about-interesst">
