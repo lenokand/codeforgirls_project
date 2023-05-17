@@ -19,9 +19,9 @@ function App() {
       <Router >
         <menu >
             <div className="menu-container">
-               <div> <NavLink  to="/" activeClassName="active">Projects</NavLink > </div> 
-               <div> <NavLink  to="MainPage" activeClassName="active">About</NavLink > </div> 
-               <div> <NavLink  to="EduPage" activeClassName="active">Edukation</NavLink > </div>
+               <div> <NavLink  to="/" >Projects</NavLink > </div> 
+               <div> <NavLink  to="MainPage" >About</NavLink > </div> 
+               <div> <NavLink  to="EduPage" >Edukation</NavLink > </div>
             </div>
                 
             

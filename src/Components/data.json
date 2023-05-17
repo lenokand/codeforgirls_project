@@ -1,0 +1,94 @@
+[
+    {    "id":1,
+         "link": "https://lenokand.github.io/Ukrtrain/",
+         "picture":"https://lenokand.github.io/Ukrtrain/images/main_baner-min.png",
+         "name":"Ukrtrain"
+    },
+    {    "id":2,
+         "link":"https://coinhub.demo.digitalrex.ru/",
+         "picture":"https://coinhub.demo.digitalrex.ru/img/fon-main.png",
+         "name":"Coin-Hub"
+    },
+    {    "id":3,
+         "link":"https://coinhub.demo.digitalrex.ru/",
+         "picture":"https://lenokand.github.io/maen/products/package.png",
+         "name":"Maen"
+    },
+    {    "id":4,
+         "link":"https://xsize-massage.ru/",
+         "picture":"https://xsize-massage.ru/upload/service/serv1.png",
+         "name":"XSize massage"
+    },
+    {    "id":5,
+         "link":"https://lenokand.github.io/rocket_smm_prod/",
+         "picture":"https://lenokand.github.io/rocket_smm_prod/products/main_img_.png",
+         "name":"SMM VK"
+    },
+    {    "id":6,
+         "link":"https://lenokand.github.io/rusremeslo/",
+         "picture":"https://lenokand.github.io/rusremeslo/products/case1.png",
+         "name":"Rusremeslo"
+    },
+    {    "id":7,
+         "link":"https://lenokand.github.io/lapchenko2/",
+         "picture":"https://lenokand.github.io/lapchenko2/products/price.png",
+         "name":"Stomatologi"
+    },
+    {    "id":8,
+         "link":"https://lenokand.github.io/remeslo_build/",
+         "picture":"https://lenokand.github.io/remeslo_build/products/consult.png",
+         "name":"Design"
+    },
+    {    "id":9,
+         "link":"https://lenokand.github.io/Mir-okon_prod/",
+         "picture":"https://lenokand.github.io/Mir-okon_prod/img/fon_block2.jpg",
+         "name":"Mir-okon"
+    },
+    {    "id":10,
+         "link":"https://lenokand.github.io/digggital/",
+         "picture":"https://lenokand.github.io/digggital/img/main_smm.png",
+         "name":"SEO - Rex"
+    },
+    
+    {    "id":12,
+         "link":"https://lenokand.github.io/AppLab/",
+         "picture":"https://lenokand.github.io/AppLab/images/telephone2.png",
+         "name":"AppLab"
+    },
+  
+    {    "id":14,
+         "link":"https://lenokand.github.io/cloudbudget/",
+         "picture":"https://lenokand.github.io/cloudbudget/img/bg1.png",
+         "name":"Cloud budget"
+    },
+    {    "id":15,
+         "link":"https://lenokand.github.io/Hungry_people/",
+         "picture":"https://lenokand.github.io/Hungry_people/img/header-bg.png",
+         "name":"Hungry people"
+    },
+    {    "id":16,
+         "link":"https://verstka.freedom.demo.digitalrex.ru/index.html",
+         "picture":"https://verstka.freedom.demo.digitalrex.ru/assets/images/blog1.jpg",
+         "name":"Freedom"
+    },
+    {    "id":17,
+         "link":"http://dubai.demo.digitalrex.ru/",
+         "picture":"http://dubai.demo.digitalrex.ru/html/img/gal1.png",
+         "name":"Dubai"
+    },
+    {    "id":18,
+         "link":"http://artist-modx.demo.digitalrex.ru/",
+         "picture":"http://artist-modx.demo.digitalrex.ru/assets/html/products/gallery1.png",
+         "name":"Artist"
+    },
+    {    "id":13,
+         "link":"https://lenokand.github.io/clock/",
+         "picture":"https://lenokand.github.io/clock/face.png",
+         "name":"clock [react]"
+    },
+    {    "id":11,
+         "link":"https://lenokand.github.io/watherApp/",
+         "picture":"https://lenokand.github.io/watherApp/bg.jpg",
+         "name":"Wather App"
+    }
+]
